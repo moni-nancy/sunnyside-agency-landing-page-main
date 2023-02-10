@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/moni-nancy/sunnyside-agency-landing-page-main.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://sunnyside-agency-landing-page-main-ptga.vercel.app/)
 
 ## My process
 
@@ -52,7 +52,6 @@ I noticed I was getting rusty with mobile responsiveness, I need to work more on
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [username](https://www.frontendmentor.io/profile/moni-nancy)
+- Twitter - [username](https://https://twitter.com/Nancy_Olatuja)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
