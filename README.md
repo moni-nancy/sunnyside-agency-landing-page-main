@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/moni-nancy/sunnyside-agency-landing-page-main.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -43,12 +43,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-
-
-
-
-
 
 ### Continued development
 I noticed I was getting rusty with mobile responsiveness, I need to work more on that also try out other JavaScript challenges
